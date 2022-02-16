@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21h-802-modern-latin-america-1808-present-revolution-dictatorship-democracy-spring-2005/14bb6e7d1118797fd54aa45c0e444f8d_MIT21H_802S05_syllS10.pdf
+file: /media/courses/21h-802-modern-latin-america-1808-present-revolution-dictatorship-democracy-spring-2005/14bb6e7d1118797fd54aa45c0e444f8d_MIT21H_802S05_syllS10.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Syllabus
+parent_type: CourseSection
 resourcetype: Document
 title: MIT21H_802S05_syllS10.pdf
 uid: 14bb6e7d-1118-797f-d54a-a45c0e444f8d
