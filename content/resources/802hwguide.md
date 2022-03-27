@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a010c554-4180-ef81-758f-5287fb95c9f8
 resourcetype: Document
 title: 802hwguide.pdf
 uid: 6d2983e5-c0dd-a1f1-5182-91015e121fdb

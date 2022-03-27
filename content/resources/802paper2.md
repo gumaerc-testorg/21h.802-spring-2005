@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a010c554-4180-ef81-758f-5287fb95c9f8
 resourcetype: Document
 title: 802paper2.pdf
 uid: 243ff20a-eb03-516a-c26c-e902a3e124c3

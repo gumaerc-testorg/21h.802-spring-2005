@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a010c554-4180-ef81-758f-5287fb95c9f8
 resourcetype: Document
 title: cuba_slides_studentpresentation_v2.pdf
 uid: bd0ae1ae-ff7e-fc58-0976-716958de7487
