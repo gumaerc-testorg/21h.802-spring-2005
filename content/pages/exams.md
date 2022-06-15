@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This includes a quiz on maps and a comprehensive final exam.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
