@@ -6,6 +6,7 @@ file: /courses/21h-802-modern-latin-america-1808-present-revolution-dictatorship
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: presentation_top.pdf
 uid: 10093bf1-d18a-2403-59dc-dec282e6f049
 ---
 This resource includes the guidelines for the oral report which is to be worked upon along with the proposed topics, and grading criteria for the report.
-
