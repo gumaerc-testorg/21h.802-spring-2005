@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section includes list of required and recommended readings for the
+  course along with some films.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 29aaf778-817a-f735-68b2-0e8788349557
 ---

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The syllabus contains an overview and list of materials for the course,
+  participation guidelines, and the gradings criteria.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: f8b2dc8d-0144-9f90-28a8-b8d590755500
 ---
@@ -14,13 +18,13 @@ Syllabus Archive
 
 The following syllabi come from a variety of different terms. They illustrate the evolution of this course over time, and are intended to provide alternate views into the instruction of this course.
 
-> Spring 2010, Jeffrey Ravel ([PDF]({{< baseurl >}}/resources/mit21h_802s05_sylls10))
+> Spring 2010, Jeffrey Ravel ({{% resource_link 14bb6e7d-1118-797f-d54a-a45c0e444f8d "PDF" %}})
 > 
-> Spring 2008, Jeffrey Ravel ([PDF]({{< baseurl >}}/resources/mit21h_802s05_sylls08))
+> Spring 2008, Jeffrey Ravel ({{% resource_link be9bec95-6928-278b-14e5-637d1d17693b "PDF" %}})
 > 
-> Spring 2006, Jeffrey Ravel ([PDF]({{< baseurl >}}/resources/mit21h_802s05_sylls06))
+> Spring 2006, Jeffrey Ravel ({{% resource_link 6cfd5745-696e-af62-5827-035ea7842ece "PDF" %}})
 > 
-> Spring 2005, Jeffrey Ravel ([PDF]({{< baseurl >}}/resources/mit21h_802s05_sylls05))
+> Spring 2005, Jeffrey Ravel ({{% resource_link 8411e4b9-6ce9-a390-5f51-cfbafd8fe941 "PDF" %}})
 
 Description
 -----------
