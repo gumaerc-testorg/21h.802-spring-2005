@@ -5,6 +5,7 @@ file: /courses/21h-802-modern-latin-america-1808-present-revolution-dictatorship
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 802hwguide.pdf
 uid: 6d2983e5-c0dd-a1f1-5182-91015e121fdb
 ---
 Guidelines for Homework Assignments.
-

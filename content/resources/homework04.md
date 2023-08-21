@@ -6,6 +6,7 @@ file: /courses/21h-802-modern-latin-america-1808-present-revolution-dictatorship
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: homework04.pdf
 uid: f21b2e4a-eaa5-d755-7be6-b17506941eda
 ---
 This resource includes instructions to be followed along with the homework questions.
-

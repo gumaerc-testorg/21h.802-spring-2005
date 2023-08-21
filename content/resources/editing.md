@@ -5,6 +5,7 @@ file: /courses/21h-802-modern-latin-america-1808-present-revolution-dictatorship
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: editing.pdf
 uid: 3b9b18e0-d89c-2670-c012-f4c6ce84f992
 ---
 Editing Suggestions.
-
