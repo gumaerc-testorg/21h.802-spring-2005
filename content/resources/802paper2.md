@@ -2,6 +2,7 @@
 content_type: resource
 description: Second Paper Topics.
 file: /courses/21h-802-modern-latin-america-1808-present-revolution-dictatorship-democracy-spring-2005/243ff20aeb03516ac26ce902a3e124c3_802paper2.pdf
+file_size: 106290
 file_type: application/pdf
 learning_resource_types:
 - Assignments
