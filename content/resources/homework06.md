@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes instructions to be followed along with the homework
   questions.
 file: /courses/21h-802-modern-latin-america-1808-present-revolution-dictatorship-democracy-spring-2005/e7577269d14fd694e7bf285e91147809_homework06.pdf
+file_size: 75021
 file_type: application/pdf
 learning_resource_types:
 - Assignments
