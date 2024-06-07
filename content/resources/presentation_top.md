@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes the guidelines for the oral report which is to
   be worked upon along with the proposed topics, and grading criteria for the report.
 file: /courses/21h-802-modern-latin-america-1808-present-revolution-dictatorship-democracy-spring-2005/10093bf1d18a240359dcdec282e6f049_presentation_top.pdf
+file_size: 114885
 file_type: application/pdf
 learning_resource_types:
 - Assignments

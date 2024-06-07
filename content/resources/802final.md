@@ -2,6 +2,7 @@
 content_type: resource
 description: Final Exam Questions
 file: /courses/21h-802-modern-latin-america-1808-present-revolution-dictatorship-democracy-spring-2005/62b08a8bc20f486b7559233f83cb7a67_802final.pdf
+file_size: 100886
 file_type: application/pdf
 learning_resource_types:
 - Assignments
