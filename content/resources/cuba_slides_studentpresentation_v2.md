@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21h-802-modern-latin-america-1808-present-revolution-dictatorship-democracy-spring-2005/bd0ae1aeff7efc580976716958de7487_cuba_slides_studentpresentation_v2.pdf
+file: /ol-ocw-studio-app/courses/21h-802-modern-latin-america-1808-present-revolution-dictatorship-democracy-spring-2005/bd0ae1aeff7efc580976716958de7487_cuba_slides_studentpresentation_v2.pdf
 file_size: 272666
 file_type: application/pdf
 learning_resource_types:
