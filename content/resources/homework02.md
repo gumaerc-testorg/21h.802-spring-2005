@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes instructions to be followed along with the homework
   questions.
-file: /courses/21h-802-modern-latin-america-1808-present-revolution-dictatorship-democracy-spring-2005/9d68a0c2f8e38eb110ac0f7d04faf5a7_homework02.pdf
+file: /ol-ocw-studio-app/courses/21h-802-modern-latin-america-1808-present-revolution-dictatorship-democracy-spring-2005/9d68a0c2f8e38eb110ac0f7d04faf5a7_homework02.pdf
 file_size: 91161
 file_type: application/pdf
 learning_resource_types:
