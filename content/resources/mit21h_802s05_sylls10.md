@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21h-802-modern-latin-america-1808-present-revolution-dictatorship-democracy-spring-2005/14bb6e7d1118797fd54aa45c0e444f8d_MIT21H_802S05_syllS10.pdf
+file: /courses/21h-802-modern-latin-america-1808-present-revolution-dictatorship-democracy-spring-2005/14bb6e7d1118797fd54aa45c0e444f8d_MIT21H_802S05_syllS10.pdf
 file_size: 85330
 file_type: application/pdf
 learning_resource_types: []
