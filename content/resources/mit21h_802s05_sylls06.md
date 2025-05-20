@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about selective survey of Latin American
   history from the beginning of the twentieth century to the present.
-file: /ol-ocw-studio-app/courses/21h-802-modern-latin-america-1808-present-revolution-dictatorship-democracy-spring-2005/6cfd5745696eaf625827035ea7842ece_MIT21H_802s05_sylls06.pdf
+file: /courses/21h-802-modern-latin-america-1808-present-revolution-dictatorship-democracy-spring-2005/6cfd5745696eaf625827035ea7842ece_MIT21H_802s05_sylls06.pdf
 file_size: 242694
 file_type: application/pdf
 learning_resource_types: []
