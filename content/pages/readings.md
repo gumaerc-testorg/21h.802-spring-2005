@@ -45,9 +45,9 @@ Levine, Robert M. "Vargas's Incomplete Revolution." In *Father of the Poor? Varg
 
 Lockwood, Lee. "A North American Journalist Interviews Castro." In *People and Issues in Latin American History from Independence to the Present*. 2nd ed. Edited by Lewis Hanke, and Jane M. Rausch. Princeton, NJ: Markus Wiener, 1999, pp. 326-45. ISBN: 9781558761957.
 
-Marquez, Gabriel García. "{{% resource_link "85a0f508-729d-4f44-85d6-79cb659300ad" "The Solitude of Latin America: Nobel Address, 1982" %}}."
+Marquez, Gabriel García. "[The Solitude of Latin America: Nobel Address, 1982](https://www.nobelprize.org/prizes/literature/1982/marquez/lecture/)."
 
-Orozco, José Clemente. {{% resource_link "a6639285-3cc8-4734-8848-579e3e5ec1a5" "*The Epic of American Civilization*" %}}.
+Orozco, José Clemente. [*The Epic of American Civilization*](https://www.nps.gov/places/the-epic-of-american-civilization-murals.htm).
 
 Perón, Eva. "My Mission in Life." In *People and Issues in Latin American History from Independence to the Present*. 2nd ed. Edited by Lewis Hanke, and Jane M. Rausch. Princeton, NJ: Markus Wiener, 1999, pp. 251-69. ISBN: 9781558761957.
 
@@ -59,9 +59,9 @@ Williams, Daryle. "Museums and Memory." In *Culture Wars in Brazil: The First Va
 
 ## Films
 
-Bradbury, David. {{% resource_link "677eefed-c02a-475b-a670-6a49462ab4d7" "*Fond Memories of Cuba*" %}} (Australia, 2002, 77 min).
+Bradbury, David. [*Fond Memories of Cuba*](http://www.imdb.com/title/tt0432854/) (Australia, 2002, 77 min).
 
-Guzman, Patricio. {{% resource_link "3afc9152-209c-401f-9598-e8171aac9273" "*The Battle of Chile*" %}} (1975, excerpts).
+Guzman, Patricio. [*The Battle of Chile*](http://www.imdb.com/title/tt0072685/) (1975, excerpts).
 
 Films for the Humanities and Sciences. *Televangelism in Brazil* (1999).
 

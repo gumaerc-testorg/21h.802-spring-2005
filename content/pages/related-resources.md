@@ -7,14 +7,14 @@ title: Related Resources
 uid: dc76f7c3-51d9-f6e4-d463-a281fb290a21
 ---
 
-[LANIC](http://lanic.utexas.edu/) (Latin American Network Information Center; a primary portal site for Latin America)  
+{{% resource_link "a6ab1c11-7593-4d08-a26b-d404c290fc94" "LANIC" %}} (Latin American Network Information Center; a primary portal site for Latin America)  
   
-[Tulane University, Latin American Library](http://lal.tulane.edu/) (One of the foremost Latin American collections in North America)  
+{{% resource_link "59109dc9-b15f-4518-bad2-2f98f3d89d40" "Tulane University, Latin American Library" %}} (One of the foremost Latin American collections in North America)  
   
-[Harvard University, David Rockefeller Center for Latin American Studies](http://drclas.harvard.edu/) (Another important university center for the study of Latin America)  
+{{% resource_link "8f1c8fb1-6d22-4b08-8fa6-5c3119224cf3" "Harvard University, David Rockefeller Center for Latin American Studies" %}} (Another important university center for the study of Latin America)  
   
-[H-Latam](https://networks.h-net.org/h-latam) (Web site for historians of Latin America)
+{{% resource_link "b05a2134-ef22-4c1e-b965-d669f3113c19" "H-Latam" %}} (Web site for historians of Latin America)
 
-[Orozco Frescoes at Dartmouth College](http://library.dartmouth.edu/)
+{{% resource_link "a801fdf6-8d48-4356-a9d0-bab3b77f82d4" "Orozco Frescoes at Dartmouth College" %}}
 
-[Gabriel Garcia Marquez, Nobel Prize Address, 1982](https://www.nobelprize.org/prizes/literature/1982/marquez/lecture/)
+{{% resource_link "85a0f508-729d-4f44-85d6-79cb659300ad" "Gabriel Garcia Marquez, Nobel Prize Address, 1982" %}}
